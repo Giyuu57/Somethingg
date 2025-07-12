@@ -73,8 +73,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const videoFrame = document.getElementById('video-frame');
     const youtubePlayer = document.getElementById('youtube-player');
     
-    // YouTube video ID for "Perfect" by Ed Sheeran
-    const videoId = '2Vv-BfVoq4g';
+    // YouTube video ID 
+    const videoId = 'KIzCpTA2p5Y?si=lnVimfmH2OhzdNS2';
     
     function playVideo() {
         // Hide placeholder and show video frame
