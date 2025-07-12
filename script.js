@@ -82,7 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
         videoFrame.style.display = 'block';
         
         // Set the YouTube embed URL with autoplay
-        youtubePlayer.src = 'https://youtu.be/jiG61g20JTY?si=8UOehUTlwb2sfodT';
+        youtubePlayer.src = 'https://www.youtube.com/embed/jiG61g20JTY?autoplay=1';
+
         
         // Add some visual feedback
         videoFrame.style.opacity = '0';
