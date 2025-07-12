@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const youtubePlayer = document.getElementById('youtube-player');
     
     // YouTube video ID 
-    const videoId = 'jiG61g20JTY';
+    const videoId = 'KIzCpTA2p5Y';
     
     function playVideo() {
         // Hide placeholder and show video frame
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
         videoFrame.style.display = 'block';
         
         // Set the YouTube embed URL with autoplay
-        youtubePlayer.src = 'https://www.youtube.com/embed/jiG61g20JTY?autoplay=1';
+        youtubePlayer.src = 'https://www.youtube.com/embed/KIzCpTA2p5Y?autoplay=1';
 
         
         // Add some visual feedback
