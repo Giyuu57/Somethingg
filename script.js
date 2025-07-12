@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const youtubePlayer = document.getElementById('youtube-player');
     
     // YouTube video ID 
-    const videoId = 'KIzCpTA2p5Y?si=lnVimfmH2OhzdNS2';
+    const videoId = 'KIzCpTA2p5Y';
     
     function playVideo() {
         // Hide placeholder and show video frame
